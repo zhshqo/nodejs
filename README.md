@@ -19,3 +19,12 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## 项目介绍
+可用于快速搭建前端框架
+使用的技术包含：
+- vue.js
+- element ui
+
+## Demo
+![layout](https://github.com/zhshqo/nodejs/demo/my-project-layout.png)
