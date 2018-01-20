@@ -1,4 +1,4 @@
-//利用递归实现多级菜单
+//只能显示两级菜单
 <template>
   <div>
     <template v-for="item in routes">
