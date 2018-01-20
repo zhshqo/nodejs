@@ -1,0 +1,41 @@
+body {
+    margin: 0px 0px;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif;
+}
+
+/*router点击时的渐入渐出效果*/
+.fade-enter-active,
+.fade-leave-active {
+  transition: all .2s ease
+}
+
+.fade-enter,
+.fade-leave-active {
+  opacity: 0;
+}
+
+a:focus,
+a:active {
+  outline: none;
+}
+
+/*去除div鼠标点击出现框框的现象*/
+div:focus,
+div:active {
+  outline: none;
+}
+
+/*去除a标签鼠标点击出现框框的现象*/
+a,
+a:focus,
+a:hover {
+  cursor: pointer;
+  color: inherit;
+  text-decoration: none;
+}
+
+
+ 
