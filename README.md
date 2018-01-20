@@ -27,4 +27,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 - element ui
 
 ## Demo
-![layout](https://github.com/zhshqo/nodejs/demo/my-project-layout.png)
+![layout](https://github.com/zhshqo/nodejs/blob/master/demo/my-project-layout.png)
