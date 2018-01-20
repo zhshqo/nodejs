@@ -1,3 +1,4 @@
+//布局文件
 <template>
  <div class="app-wrapper" :class="{hideSidebar:!sidebar.opened}">
     <div class="header-wrapper">
