@@ -21,7 +21,7 @@
 import mySidebar from '@/components/sidebar'
 import myHeader from '@/components/common/header'
 import myNavbar from '@/components/common/navbar'
-import myContent from '@/components/common/content'
+import myContent from '@/components/common/routerviewholder'
 
 export default {
   name: "app",
