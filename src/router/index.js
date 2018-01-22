@@ -56,7 +56,9 @@ export const asyncRouterMap = [
     children: [
       {path: 'usermanage',name: '用户管理',component: usermanage,meta:{role: ['admin']}}
     ]
-  }
+  },
+
+  { path: '*', redirect: '/404', hidden: true }
 ]
 
 

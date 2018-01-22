@@ -4,7 +4,7 @@
           网站标志
       </span>
       <span class="demonstration" style="float:right;margin-right:1%;color:white;cursor:pointer">
-          <el-dropdown style="margin-right:5px;">
+          <el-dropdown trigger="click" style="margin-right:5px;">
             <span class="el-dropdown-link" style="color:white;">
               用户<i class="el-icon-arrow-down el-icon--right"></i>
             </span>
